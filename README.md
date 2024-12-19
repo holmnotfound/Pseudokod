@@ -1,8 +1,9 @@
 # Pseudokod
 ### Flowchart for Split the Nota
-![flowchart for split the nota](https://github.com/holmnotfound/Pseudokod/blob/a66d1182e7f028ce139e136bfa892639c3b06458/SplitTheNota.png)
+![image](https://github.com/user-attachments/assets/999c5882-bb49-47ce-978b-7d35e7cd1744)
+
 ### Flowchart for Lewis Carroll Word Puzzle
-![flowchart for Lewis Carroll Word Puzzle](https://github.com/holmnotfound/Pseudokod/blob/main/Puzzle.png?raw=true)
+![image](https://github.com/user-attachments/assets/3131db4d-de0a-4f4e-9109-05a61114c4eb)
 
 ### Figma
 [Link to Figma](https://www.figma.com/board/Fc5PLkUSZl4guDnXUwsXb0/Untitled?node-id=0-1&t=vA58HvfQQ0TLpO0V-1)
